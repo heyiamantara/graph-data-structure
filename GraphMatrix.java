@@ -1,7 +1,3 @@
-import java.util.*;  
-// Import utility package.
-// Not heavily needed here, but commonly used in Java programs.
-
 public class GraphMatrix {  
 // Public class named GraphMatrix.
 // File name should be GraphMatrix.java
